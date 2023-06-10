@@ -1,0 +1,2 @@
+мая 26, 2023 3:06:13 AM Task4 saveToFile
+WARNING: agdfg\test.txt (Системе не удается найти указанный путь)
