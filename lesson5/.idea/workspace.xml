@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bae49d9-4173-43d9-8b2b-2c84b0610eed" name="Changes" comment="">
+    <list default="true" id="efe07218-5d44-44bc-8a9f-d488a282a16f" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../HomeWork_5/untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson5/.idea/lesson5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lesson5/untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lesson3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lesson3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lesson5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3/.idea/lesson3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/.idea/lesson3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2QTi6HCnQKaDZ8fCOhDY94vYIzh" />
+  <component name="ProjectId" id="2R1cFMrZp23nSv0W8L80USyPTSg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,9 +29,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/cryst/OneDrive/Рабочий стол/JAVA/HomeWork_4",
+    "last_opened_file_path": "C:/Users/cryst/OneDrive/Рабочий стол/JAVA/HomeWork_5",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -40,11 +39,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9bae49d9-4173-43d9-8b2b-2c84b0610eed" name="Changes" comment="" />
-      <created>1685383794633</created>
+      <changelist id="efe07218-5d44-44bc-8a9f-d488a282a16f" name="Changes" comment="" />
+      <created>1686420924338</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1685383794633</updated>
+      <updated>1686420924338</updated>
     </task>
     <servers />
   </component>
